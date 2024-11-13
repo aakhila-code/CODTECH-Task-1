@@ -1,14 +1,24 @@
 # CODTECH-Task-1
+
 **NAME:** AAKHILA FATHIMA J
+
 **COMPANY:** CODTECH IT SOLUTIONS
+
 **ID:** CT6WDS1866
+
 **DURATION:** SEPTEMBER 30TH 2024 TO NOVEMBER 15TH 2024
+
 **MENTOR:** NEELA SANTHOSH KUMAR
+
 **OVERVIEW OF THE PROJECT**
 PROJECT: MOBILE APP WIREFRAMING
+
 **OBJECTIVES:** Creating a wireframe for the Instagram app requires defining its navigation flow, screen layouts, and basic UI elements to demonstrate how users will interact with the app. 
+
 **KEY ACTIVITES**:
+
 **1. Navigation Flow**
+
 Instagram’s navigation is primarily based on a bottom tab bar, which remains visible on most screens. Here’s a typical flow:
 
 Bottom Navigation Bar: Includes icons for the main sections:
@@ -24,7 +34,9 @@ Notifications (Direct messages and notifications)
 Settings (On the profile screen)
 Camera (Story creation)
 IGTV (for older versions, separate tab or section)
+
 **2. Screen Layouts**
+
 Home Feed
 Top Bar: Logo or title (“Instagram”), plus icons for Direct Messages and Story creation.
 Story Carousel: Display user’s story icon, plus icons of others they follow.
@@ -50,7 +62,9 @@ Profile
 Profile Header: Profile picture, bio, follower/following counts, and an "Edit Profile" button.
 Tabs for Posts, Reels, Tagged Content: Display in a grid or list format.
 Settings Gear: Access to account settings, privacy options, etc.
+
 **3. Basic UI Elements**
+
 Icons: Use of recognizable icons for key actions (heart for likes, speech bubble for comments, airplane for share, etc.).
 Buttons: Rounded buttons for interactive elements like “Follow,” “Message,” and “Edit Profile.”
 Typography: Clean, sans-serif font for readability, with larger font for usernames and section titles.
