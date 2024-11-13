@@ -71,5 +71,5 @@ Typography: Clean, sans-serif font for readability, with larger font for usernam
 Color Scheme: Instagram’s classic colors (gradient for story ring, blue for links, etc.).
 Animations: Subtle animations on like button, new post transitions, and story creation interactions.
 Each of these screens and elements work together to provide an intuitive, visually appealing user experience. The wireframe should emphasize clean layouts, ease of navigation, and minimal yet effective use of visual elements to make the experience seamless.
-**TECHNOLOGY USED:** FIGMA
+
 **TECHNOLOGY USED:** FIGMA
