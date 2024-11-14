@@ -73,4 +73,4 @@ Animations: Subtle animations on like button, new post transitions, and story cr
 Each of these screens and elements work together to provide an intuitive, visually appealing user experience. The wireframe should emphasize clean layouts, ease of navigation, and minimal yet effective use of visual elements to make the experience seamless.
 
 **TECHNOLOGY USED:** FIGMA
-https://in.docworkspace.com/d/sIMfxrIBct8XXuQY
+
