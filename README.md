@@ -74,3 +74,5 @@ Each of these screens and elements work together to provide an intuitive, visual
 
 **TECHNOLOGY USED:** FIGMA
 
+![Screenshot 2024-11-13 130135](https://github.com/user-attachments/assets/fa437aef-ea13-42fe-94e0-6f66de20a3f9)
+
